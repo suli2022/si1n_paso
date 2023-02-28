@@ -6,6 +6,8 @@ public class MainMenu {
     public MainMenu() {
         scanner = new Scanner(System.in);
     }
+    //TODO: itt lesz egy változtatni való
+    
     public void showMenu() {
         System.out.println();
         System.out.println("----------------------");
